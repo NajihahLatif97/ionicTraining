@@ -1,0 +1,7 @@
+{
+  "name": "vskaApps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
